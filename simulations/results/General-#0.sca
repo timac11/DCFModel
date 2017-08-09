@@ -1,0 +1,347 @@
+version 2
+run General-0-20170628-16:14:30-5588
+attr configname General
+attr datetime 20170628-16:14:30
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Network
+attr processid 5588
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+
+statistic Network.station[0].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[0].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[0].dcfModule 	beginTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
+statistic Network.station[1].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[1].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[1].dcfModule 	beginTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
+statistic Network.station[2].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[2].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[2].dcfModule 	beginTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
+statistic Network.station[3].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[3].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[3].dcfModule 	beginTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
+statistic Network.station[4].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[4].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[4].dcfModule 	beginTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
+statistic Network.station[5].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[5].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[5].dcfModule 	beginTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
+statistic Network.station[6].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[6].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[6].dcfModule 	beginTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
+statistic Network.station[7].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[7].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[7].dcfModule 	beginTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
+statistic Network.station[8].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[8].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[8].dcfModule 	beginTransmitSignal:stats
+field count 1
+field mean 0.0004
+field stddev nan
+field sum 0.0004
+field sqrsum 1.6e-007
+field min 0.0004
+field max 0.0004
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
+statistic Network.station[9].dcfModule 	dropTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  dropTransmitSignal
+attr title  "average life time, stats"
+statistic Network.station[9].dcfModule 	endTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  endTransmitSignal
+attr title  "average transmission time, stats"
+statistic Network.station[9].dcfModule 	beginTransmitSignal:stats
+field count 0
+field mean nan
+field stddev nan
+field sum 0
+field sqrsum 0
+field min nan
+field max nan
+attr interpolationmode  none
+attr source  beginTransmitSignal
+attr title  "average miss time, stats"
